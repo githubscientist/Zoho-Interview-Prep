@@ -230,3 +230,11 @@ class Solution {
 
 - Encapsulation is the mechanism of wrapping the data (variables) and code acting on the data (methods) together as a single unit.
 - example: class
+
+5. Constructor Overloading:
+
+- Constructor overloading is a concept in which we can create multiple constructors with the same name but with different parameters.
+
+6. this keyword:
+
+- this keyword is a reference variable that refers to the current object.
