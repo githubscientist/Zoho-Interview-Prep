@@ -1,7 +1,7 @@
 class Book:
-    # default constructor is made available by default
-
-    pass
+    # default constructor is explicitly defined
+    def __init__(self):
+        print('constructor is called')
 
 
 book = Book()

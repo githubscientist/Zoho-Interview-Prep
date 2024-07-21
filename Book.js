@@ -1,6 +1,8 @@
 class Book {
-    // default constructor is made available by default
-    
+    constructor() {
+        console.log('constructor is called');
+    }
+
 }
 
 let book = new Book();

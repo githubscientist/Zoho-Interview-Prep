@@ -225,3 +225,8 @@ class Solution {
 
 - A constructor is a special type of method that is used to initialize the object.
 - It is called when an object is created.
+
+4. Encapsulation:
+
+- Encapsulation is the mechanism of wrapping the data (variables) and code acting on the data (methods) together as a single unit.
+- example: class
