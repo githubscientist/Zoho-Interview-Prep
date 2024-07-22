@@ -238,3 +238,30 @@ class Solution {
 6. this keyword:
 
 - this keyword is a reference variable that refers to the current object.
+
+7. Polymorphism:
+
+- Polymorphism is the ability of a single function or method to operate on multiple data types.
+- Poly -> Many, Morphism -> Forms
+- Taking more than one form.
+- Reusability of code.
+- Two types of polymorphism:
+  - Compile-time polymorphism (Method Overloading)
+  - Run-time polymorphism (Method Overriding)
+
+8. Method Overloading:
+
+- Method overloading is a concept in which we can create multiple methods with the same name but with different parameters.
+
+9. Inheritance:
+
+- Inheritance is a mechanism in which one class acquires the properties and behavior of another class.
+- The class which inherits the properties is known as the subclass (child class), and the class whose properties are inherited is known as the superclass (parent class).
+
+10. Method Overriding:
+
+- Method overriding is a feature that allows a subclass to provide a specific implementation of a method that is already provided by its superclass.
+
+11. super
+
+- super keyword is a reference variable that is used to refer to the immediate parent class object.
