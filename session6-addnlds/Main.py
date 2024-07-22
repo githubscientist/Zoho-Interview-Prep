@@ -5,7 +5,9 @@ class Animal:
 
 
 class Dog(Animal):
+
     def sound(self):
+        super().sound()
         print("Dog barks")
 
 

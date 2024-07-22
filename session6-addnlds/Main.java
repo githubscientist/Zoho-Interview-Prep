@@ -8,6 +8,7 @@ class Animal {
 // define a child class
 class Dog extends Animal {
     void sound() {
+        super.sound();
         System.out.println("Dog is barking");
     }
 }
